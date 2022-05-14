@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ageless-impulse-349510",
+  "private_key_id": "77dffe6d121e11c60457e9e3c7a6a5fd2b95a17c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqI0hXvLMBJ01H\npmPPilur0njkyVAhCE93zN4TrK1a/L22xWU+Tyr34sx/bffzEW/UYL+hEBTFITSi\nyYNoKFzkhjuu0A5NhrA3E9pv4lckZ7QF+LJJddbBM+IC48pRS0trpN630ZKORJ6C\n3M9u+OmacnwqlpOMoXrdOGmJBymM6xSBYsHCdH2Rq8GmDI2RJOVpGw/QWTuMR/fp\nuZ8aHpfwF9C/18HJfR/Fy0hBTYaLi3m4vN83hRkZ7u3FUzRZvmFWrAGKHn6gtsZf\nCmzgqv89Z70FEEckj5HyLKS3kce0qEdX2t9cGuGh41tXazLANrDcb1bxBlxyC+YY\nbmfcCfFRAgMBAAECggEAB9W8HR45eBIhQu1sp0AN3KnCm3aR1BOX5UJv76QCD7CX\n4/TPJsFqjyPImw2rX2wsJDGYYYhmDHXtAJobDQ7eyD9OPEyke/l53+9wHbrknG6S\nIbxEKZHdo+QJwmxPAtNe08Qx5XEnOJn8WrZkbw3TZCNliGiKvu0oxUs1wPOtfCm7\n+R7QIs1ET4bDASo0jcy7BqRR8WIEGAGkl4GD+0NhbYm8CqeGWkskkmwgwUKfoi9q\nWthJYorOuZWI5V8uM1lCeQ7Ph0lPE3uhgtkgFw58f/z0pOmplkU2bWmVZD1hYSdv\nrCjQtDCt93fpMA6iq9KJdBZdgtpGFpDyLUDNyZoYgQKBgQDZc56lgFxBzvSqrlPb\n4EzxDwLPIgkOmrrBQi96gyoiQahb9qawPQd2tCp1hXaCnelJ2X+7nmceY0h7mmsa\njM+ITrb8VMHxRTYoXL7Kgd/uHRGUJAXQ/Mx884jXI0JzuuaLC5+pkfYNeYGO7vix\nI2W8Oy1sLzHLdj2cji+Xz1hfuQKBgQDITHgrupiQLawv6Ym5qfLbzlwQBFQfMzpf\nyBpjSy0QUrn3uMXD3WzD6QXVgAGw5sI0bjLFX2uSLTZv4qE5T3BOD9JcvS3eNnWB\nd6NuyBiiTjAazzOk0H6nhKlVUDcZvaHFfjx+e9GElHVsDNoZlDs3lpXB8CmmdS/F\ntL54Tob6WQKBgBfDdODtSCfA8Cf+6RcsSfxGAa6VL5wy+JnKG9otn1sjBb0XFVxJ\nLxmf0swJC8x2aVoytKzSQL6nZvJrC61ZGgzxXTnyIUe2opaCnC8RRmGFN7iSvzf5\niHdXPesU5Vw0XqFvYcFsPBF459mw7+ibz7BkXzBlb/GmOFF1kGnstOGxAoGBAJYR\npR+uSEwNzCqBoSy4Bjtlm1hsxdIygZPtyseGNZc7RBY0HAgpyCnoVvSlWZ7+5ZZ+\n0g9K9L+qnFSryfu0ZwI1nHjbTJhm2RdNWefQh5RjXGtZvunHRH2iSXSgCwiAKcpc\nUFq7zji1OlzgLDBp/QwjCMUreSk8N7S7PNHKlBrRAoGBAMyqI9DciI6gsvkxNx7l\nFJXpKQ+zuswkse27DoeJ0izEpGmVwTEzENfa57hezoqpsWN6TNmcLeJ+m1+0+yFD\nixq3S3Yai2q6TND2XCZCyii7+7WnUC4VR1/hlelcIGG3nWP3NT8RdzDCljrydg8f\n+KOC5vtfYv7Xd7Q5m6k91ynZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "cc-translate-usage@ageless-impulse-349510.iam.gserviceaccount.com",
+  "client_id": "117042820739944528992",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cc-translate-usage%40ageless-impulse-349510.iam.gserviceaccount.com"
+}
