@@ -14,7 +14,8 @@ app.use('/guesses', guessesRouter);
 app.use('/pokemons', pokemonsRouter);
 app.use("/utils", utilsRouter);
 
-const port = 8080;
+const port = process.env.PORT || 8080;
+
 app.listen(port, () => {
   console.log(`Pokemon Guesser app listening on port ${port}!`);
 });
