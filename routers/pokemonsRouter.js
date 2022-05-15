@@ -3,8 +3,6 @@ const mysql = require("mysql");
 const express = require("express");
 const router = express.Router();
 const {detectLabels, detectImageProperties} = require("../utils/imageRecognitionFunctions");
-const {translateText } = require("../utils/translateFunctions");
-const {LANGUAGE_ISO_CODE} = require("../utils/dictionaries");
 
 // GET from DB (SELECT)
 router.get("/", (req, res) => {

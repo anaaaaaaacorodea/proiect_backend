@@ -36,8 +36,6 @@ router.get("/:id", (req, res) => {
 
 //POST in DB (INSERT)
 router.post("/", (req, res) => {
-  // console.log(req.body);
-  // return res.send("Ok");
 
   const { 
     guesserName, 
@@ -125,42 +123,5 @@ router.put("/:id", (req, res) => {
   );
 }
 );
-
-router.post("/foreign", async (req, res) => {
-  const { guesserName, guesserAge, guessPokemon, descriptionLanguage} =
-      req.body;
-
-  if (
-      !guesserName ||
-      !guesserAge ||
-      !guessPokemon ||
-      !descriptionLanguage
-  ) {
-      return res.status(400).json({
-          error: "All fields are required",
-      });
-  }
-
-  try {
-
-      connection.query(
-          `INSERT INTO guesses (guesserName, guesserAge, guessPokemon, descriptionLanguage) VALUES (
-            ${mysql.escape(guesserName)}, 
-            ${mysql.escape(guesserAge)}, 
-            ${mysql.escape(guessPokemon)}, 
-            ${mysql.escape(descriptionLanguage)}
-            )`,
-          (err, results) => {
-              if (err) {
-                  console.log(err);
-                  return res.send(err);
-              }
-          }
-      );
-  } catch (err) {
-      console.log(err);
-      return res.send(err);
-  }
-});
 
 module.exports = router;

@@ -37,9 +37,5 @@ router.get("/labels", async (req, res) => {
     })
 })
 
-router.get("/generatePokemon", async (res, req) => {
-    
-})
-
 
 module.exports = router;
