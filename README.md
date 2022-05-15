@@ -2,9 +2,9 @@
 
 ## Linkuri utile
 
-link video prezentare:
+link video prezentare: https://youtu.be/Mg3KzTa6h8o
 
-link aplicatie:
+link aplicatie: https://powerful-savannah-95185.herokuapp.com/
 
 ## Introducere
 
