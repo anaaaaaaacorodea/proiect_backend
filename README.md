@@ -118,6 +118,12 @@ Metoda labels primește un link în body și  returnează componenta cuetichete 
 ![image](https://user-images.githubusercontent.com/100942603/168466172-35dae0cd-8f0e-42df-bca7-4993b34e6aaf.png)
 ![image](https://user-images.githubusercontent.com/100942603/168466175-07acb85d-3526-4261-ad30-ee4e8fac042f.png)
 
+4. **Publicarea aplicației**
+
+Pentru publicarea aplicației a fost folosită platforma Heroku. Urmărind instrucțiunile prezentate la seminar, am create cele două aplicații, una pentru frontend și una penrtu backend și am adăugat variabilele necesare.
+
+![image](https://user-images.githubusercontent.com/100942603/168475490-9d9c2c1b-95bb-4e6c-9b57-711294e0d732.png)
+
 ## Referințe 
 Seminar Cloud Computing 2022 Guriță Alexandru
 https://cloud.google.com/vision/?hl=en_US&_ga=2.133561678.-1914640957.1651918647
